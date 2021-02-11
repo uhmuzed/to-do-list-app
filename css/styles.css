@@ -16,10 +16,6 @@ background-image: url(https://www.pptwork.com/wp-content/uploads/2017/12/Noteboo
 background-position: -90px -60px;
 border-radius: 5px;}
 
-.container::before {
-
-}
-
 form {
 display: inline-block;
 }
